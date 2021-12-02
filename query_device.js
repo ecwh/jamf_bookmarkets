@@ -1,0 +1,1 @@
+javascript:%20(function()%20{%20var%20val=%20prompt("Enter%20Device%20Query#","");%20if%20(val)%20location="https://instance.domain.com:8443/mobileDevices.html?queryType=Mobile%20Devices&query="+escape(val);%20})()
